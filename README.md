@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mostafa-elgzaeere
+- 👋 Hi, I’m mostafa-elgzaeere
 - 👀 I’m interested in FullStack Web Development 
 - 🌱 I’m currently learning Django / React
 
